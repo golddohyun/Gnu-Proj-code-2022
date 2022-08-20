@@ -1,2 +1,3 @@
-# temporary code for Snudong Proj MVP
-based on dynamic scrapying/crawling elements of community data
+# WIP code for Snudong Proj
+based on crawling elements of community data/social network service
+currently work in progress (2022.06~ )
